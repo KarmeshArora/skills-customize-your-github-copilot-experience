@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing with pytest",
+      "description": "Write automated tests using pytest to verify function correctness, handle edge cases, and test for expected exceptions.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-08-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
